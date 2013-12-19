@@ -1,0 +1,22 @@
+{
+  "name": "res-async",
+  "version": "0.0.1",
+  "description": "Express async helpers to reduce endpoint complexity.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/derrickpelletier/res-async.git"
+  },
+  "author": {
+    "name": "Derrick Pelletier",
+    "email": "derrick@dpelletier.com",
+    "url": "http://dpelletier.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "express": "~3.4.7"
+  },
+  "dependencies": {
+    "async": "~0.2.9"
+  }
+}
